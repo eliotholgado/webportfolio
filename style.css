@@ -129,3 +129,9 @@
 	border: 5px solid black;
 	color: white;
 }
+
+#footer {
+	background-color: black;
+	color: white;
+	height: auto;
+}
