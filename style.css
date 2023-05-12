@@ -85,6 +85,12 @@
 	color: black;
 }
 
+#tools {
+	background-color: rgba(250, 250, 250, 0.5);
+	border-radius: 25px;
+	color: black;
+}
+
 #cards {
 	background-color: rgba(1, 16, 79, 0.5);
 	border-radius: 25px;
@@ -96,18 +102,42 @@
 	background-color: rgba(0, 0, 0, 0.5);
 	border-radius: 25px;
 	color: white;
+	width: 18rem;
 }
 
 #card2 {
 	background-color: rgba(0, 0, 0, 0.5);
 	border-radius: 25px;
 	color: white;
+	width: 18rem;
 }
 
 #card3 {
 	background-color: rgba(0, 0, 0, 0.5);
 	border-radius: 25px;
 	color: white;
+	width: 18rem;
+}
+
+#cardsab {
+	background-color: rgba(209, 164, 0, 0.5);
+	border-radius: 25px;
+	color: black;
+	padding: 30px;
+}
+
+#carda {
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 25px;
+	color: white;
+	width: 18rem;
+}
+
+#cardb {
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 25px;
+	color: white;
+	width: 18rem;
 }
 
 #contact {
